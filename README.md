@@ -3,4 +3,5 @@
 ### HTML
 <a href="https://github.com/happytaeyoon/TIL/blob/main/HTML/html.md">html정리</a>
 ### CSS
+<a href="https://github.com/happytaeyoon/TIL/tree/main/CSS">CSS정리</a>
 ### JavaScript
